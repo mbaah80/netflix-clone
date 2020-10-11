@@ -3,6 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### Project Demo
+https://netflix-control-63faa.web.app/
 
 ### `yarn start`
 
